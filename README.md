@@ -2,6 +2,11 @@
 
 link:- https://spotify-clone-xi-indol.vercel.app/
 
+🏠 Home Page
+![Alt text](https://github.com/kranthi7581/spotify-clone/blob/main/home.png)
+📀 Playlist Section
+![Alt text](https://github.com/kranthi7581/spotify-clone/blob/main/playlist.png)
+
 📝 Project Overview
 
 A Spotify-inspired music streaming web application built using React.js, featuring a modern UI and interactive music player.
@@ -43,13 +48,6 @@ spotify-clone/
 ├── screenshots/
 ├── package.json
 └── README.md
-
-📌 Add your real screenshots in /screenshots folder
-
-🏠 Home Page
-
-📀 Playlist Section
-![Alt text](path/to/palylist.png)
 
 ⚙️ Installation & Setup
 
