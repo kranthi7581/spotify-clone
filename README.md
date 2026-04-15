@@ -48,9 +48,8 @@ spotify-clone/
 
 🏠 Home Page
 
-🎵 Music Player
-
 📀 Playlist Section
+https://github.com/kranthi7581/spotify-clone/blob/main/playlist.png
 
 ⚙️ Installation & Setup
 
