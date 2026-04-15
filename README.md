@@ -49,7 +49,7 @@ spotify-clone/
 🏠 Home Page
 
 📀 Playlist Section
-https://github.com/kranthi7581/spotify-clone/blob/main/playlist.png
+![Alt text](path/to/palylist.png)
 
 ⚙️ Installation & Setup
 
